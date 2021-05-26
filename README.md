@@ -1,5 +1,5 @@
-# AGE
-Enter your age and find how many days , weeks , months you have to turn 90 years.
+// # AGE
+// Enter your age and find how many days , weeks , months you have to turn 90 years.
 
 var age = prompt ("what is your age")
 function lifeInYears(age){
